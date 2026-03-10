@@ -1,0 +1,19 @@
+From: security@ma-banque-secure-123.com
+To: client@gmail.com
+Reply-To: hacker@gmail.com
+Subject: URGENT - Votre compte sera fermé dans les 24 heures
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Cher client,</p>
+<p>Nous avons détecté une activité suspecte sur votre compte. Votre compte sera suspendu immédiatement si vous n'agissez pas.</p>
+<p>Action requise : confirmez vos coordonnées bancaires et votre code pin sans délai.</p>
+<p>Cliquez ici pour vérifier votre compte : <a href="http://192.168.1.42/login-secure">Accéder à mon compte</a></p>
+<p>Ou via ce lien : https://bit.ly/3xSecure</p>
+<p>Vous avez gagné également un bon cadeau de 50€ à récupérer. Ne manquez pas cette offre exclusive réservée à nos clients.</p>
+<p>Dernier délai : avant minuit ce soir.</p>
+<p>Le Support Technique</p>
+</body>
+</html>

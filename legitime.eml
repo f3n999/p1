@@ -1,0 +1,21 @@
+From: newsletter@spotify.com
+To: matthieu@gmail.com
+Reply-To: newsletter@spotify.com
+Subject: Vos nouveautés musicales de la semaine
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>Bonjour Matthieu,</p>
+<p>Voici vos recommandations musicales de cette semaine, sélectionnées selon vos écoutes récentes.</p>
+<p>Nouveautés dans vos genres favoris :</p>
+<ul>
+  <li>Arctic Monkeys - nouvel album disponible</li>
+  <li>Playlist "Rock indie 2026" mise à jour</li>
+</ul>
+<p>Bonne écoute !</p>
+<p>L'équipe Spotify<br>
+<a href="https://www.spotify.com/unsubscribe">Se désabonner</a></p>
+</body>
+</html>
